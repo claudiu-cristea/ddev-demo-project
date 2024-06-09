@@ -1,0 +1,7 @@
+/vendor/
+/.editorconfig
+/.gitattributes
+/web/
+!/web/modules/custom/
+!/web/profiles/
+!/web/themes/custom/
